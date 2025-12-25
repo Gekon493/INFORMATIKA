@@ -58,6 +58,7 @@ int main() {
     std::cout << "\nПреобразованные массивы (каждый элемент умножен на минимум своего массива):" << std::endl;
     printArray(A, SIZE, "Массив A'");
     printArray(B, SIZE, "Массив B'");
+    system("pause");
 
     return 0;
 }
