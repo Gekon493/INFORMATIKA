@@ -22,5 +22,6 @@ int main() {
 	cout << "S = " << S << endl;
 	float C = fmax(R, S);
 	cout << "C = " << C;
+	system("pause");
 	return 0;
 }
